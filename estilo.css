@@ -1,0 +1,78 @@
+.cabecalho{
+background-color: coral;
+padding-top: 10%;
+font-size: 20px;
+
+}
+
+.rodape{
+
+  padding: 1%;  
+  color: black;  
+  background-color: coral;  
+}
+
+.trasera{
+background-image:url("image.png") ;
+background-repeat:no-repeat ;
+padding: 20%;  
+background-size: 2000px 600px;
+font-size:20px ;
+}
+
+.contatin{
+    background-image:url("images.jpg") ;
+    background-repeat:no-repeat ;
+    padding: 10%;  
+    background-size: 1250px 350px;
+    font-size:20px ;
+
+}
+
+.exemplo{ 
+font-size: 20px;
+color:black;
+padding: 20%;
+background-color:chocolate
+}
+
+
+#unico{
+} 
+
+
+
+a{
+    color: white;
+}
+a:hover{
+    color: red;
+
+}
+
+ul{}
+li{
+display: inline;    
+}
+
+
+
+
+h2{
+    
+}
+
+
+p{
+
+
+}
+
+body{
+background-color: chocolate;
+text-align: center;
+}
+ 
+
+
+*{font-family:  fantasy;}
